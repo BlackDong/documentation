@@ -2,17 +2,7 @@
 一个基于spring boot 构建的, spring cloud 实现的, docker 容器化部署的, 前后端分离的, 分布式数据组装计算的, VUE渲染的 报表工具.
 ## 功能交互设计
 ### 报表数据展示流程
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
 ```mermaid
 sequenceDiagram
 participant 浏览器
@@ -64,3 +54,18 @@ end
 浏览器 -->> 浏览器: 渲染数据
 ```
 
+## UML diagrams
+
+You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
+
+```mermaid
+sequenceDiagram
+Alice ->> Bob: Hello Bob, how are you?
+Bob-->>John: How about you John?
+Bob--x Alice: I am good thanks!
+Bob-x John: I am good thanks!
+Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+Bob-->Alice: Checking with John...
+Alice->John: Yes... John, how are you?
+```
