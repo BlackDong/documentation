@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Report</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li>
+<ul>
+<li><a href="#关于报表设计的一点感想">关于报表设计的一点感想</a></li>
+<li><a href="#功能交互设计">功能交互设计</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <blockquote>
+<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
+</blockquote>
+<h2 id="关于报表设计的一点感想">关于报表设计的一点感想</h2>
+<p>一个基于spring boot 构建的, spring cloud 实现的, docker 容器化部署的, 前后端分离的, 分布式数据组装计算的, VUE渲染的 报表工具.</p>
+<h2 id="功能交互设计">功能交互设计</h2>
+
+    </div>
+  </div>
+</body>
+
+</html>
